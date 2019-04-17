@@ -12,8 +12,7 @@
   },
   "scripts": {
     "test": "jest --coverage",
-    "test:dev": "jest --watch",
-    "prepare": "rm -rf build && babel ./src --out-dir ./dist"
+    "test:dev": "jest --watch"
   },
   "repository": {
     "type": "git",
